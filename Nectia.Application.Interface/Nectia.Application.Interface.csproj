@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Nectia.Application.DTO\Nectia.Application.DTO.csproj" />
+    <ProjectReference Include="..\Nectia.Transversal.Common\Nectia.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>

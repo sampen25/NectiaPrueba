@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Nectia.Infrastructure.Data\Nectia.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\Nectia.Infrastructure.Interface\Nectia.Infrastructure.Interface.csproj" />
+    <ProjectReference Include="..\Nectia.Transversal.Common\Nectia.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>
