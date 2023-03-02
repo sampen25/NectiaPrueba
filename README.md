@@ -1,4 +1,5 @@
-=====README=====
+#Creado por Manuel Sampen Antonio
+Tener en cuenta para el funcionamiento local de la Api desarrollada:
 1. Clonar las fuentes a una ubicación local.
 2. Compilar la solución.  (Se descargará del nugget las extensiones usadas en la solución)
 3. Presionar F5 para iniciar la Api. Aparecerá como página inicial la de swagger.
